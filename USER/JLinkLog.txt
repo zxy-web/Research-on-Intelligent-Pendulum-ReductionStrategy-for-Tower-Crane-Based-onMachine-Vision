@@ -1,0 +1,19 @@
+T0A78 007:344.630   SEGGER J-Link V7.22b Log File
+T0A78 007:344.730   DLL Compiled: Jun 17 2021 17:22:49
+T0A78 007:344.734   Logging started @ 2023-09-04 03:29
+T0A78 007:344.738 - 7344.740ms
+T0A78 007:344.745 JLINK_SetWarnOutHandler(...)
+T0A78 007:344.750 - 0.007ms
+T0A78 007:344.755 JLINK_OpenEx(...)
+T0A78 007:359.064   
+  ***** Error: 
+T0A78 007:359.161   Communication timed out: Requested 2 bytes, received -1 bytes !
+T0A78 007:359.171   
+  ***** Error: 
+T0A78 007:359.177   Cannot connect to J-Link
+T0A78 007:370.909 - 26.175ms returns "Communication timed out: Requested 2 bytes, received -1 bytes !
+Cannot connect to J-Link"
+T0A78 067:081.450 JLINK_Close()
+T0A78 067:081.657 - 0.213ms
+T0A78 067:081.666   
+T0A78 067:081.670   Closed
